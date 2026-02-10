@@ -30,4 +30,4 @@ jobs:
           app_location: "/" # 이미지상 index.html이 최상위에 있으므로 "/"가 맞습니다.
           api_location: "api" # api 폴더가 있으므로 "api"로 설정합니다.
           output_location: "" # 정적 HTML이므로 비워둡니다.
-          #########
+          #######
